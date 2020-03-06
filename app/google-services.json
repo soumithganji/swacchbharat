@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "220429908266",
+    "firebase_url": "https://chatroom-ea05e.firebaseio.com",
+    "project_id": "chatroom-ea05e",
+    "storage_bucket": "chatroom-ea05e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220429908266:android:58acd2c1db015ca8b98653",
+        "android_client_info": {
+          "package_name": "com.example.swatchbharat"
+
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220429908266-7kd44ogorqbd0c9rcqvdvm8ami1mbukk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLC9YdIEjQaprrKwtmxedCLvzETfId9B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220429908266-7kd44ogorqbd0c9rcqvdvm8ami1mbukk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
